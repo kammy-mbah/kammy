@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+:root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: outfit;
+  padding-top: 7rem;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: rem;
+}
+
+body {
+  background-color: rgb(211, 211, 237);
+  width: 25vw;
+  height: 55vh;
+  gap: 2rem;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  border-radius: 2rem;
+}
+.fullpage {
+  background-color: #fff;
+  padding: 3rem;
+  border: 2px solid black;
+}
+h3 {
+  color: rgb(162, 162, 217);
+}
